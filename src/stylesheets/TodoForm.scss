@@ -1,0 +1,38 @@
+.todo-form {
+  display: flex;
+  width: auto;
+  height: 40px;
+  margin: 0 16px;
+}
+
+.todo-input {
+  flex: 1;
+  width: 80%;
+  height: 38px;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #BBBBBB;
+  text-indent: 8px;
+}
+
+.todo-submit-button {
+  width: 96px;
+  margin-left: 8px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  background-color: #F48FB1;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+
+.todo-submit-button:hover {
+  background-color: #F06292;
+}
+
+::placeholder {
+  color: #BBBBBB;
+}

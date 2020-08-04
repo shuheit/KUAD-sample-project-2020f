@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sample-react-project-2020f/static/css/main.2d861202.chunk.css",
+    "main.js": "/sample-react-project-2020f/static/js/main.c813da28.chunk.js",
+    "main.js.map": "/sample-react-project-2020f/static/js/main.c813da28.chunk.js.map",
+    "runtime-main.js": "/sample-react-project-2020f/static/js/runtime-main.b6970087.js",
+    "runtime-main.js.map": "/sample-react-project-2020f/static/js/runtime-main.b6970087.js.map",
+    "static/js/2.5767340a.chunk.js": "/sample-react-project-2020f/static/js/2.5767340a.chunk.js",
+    "static/js/2.5767340a.chunk.js.map": "/sample-react-project-2020f/static/js/2.5767340a.chunk.js.map",
+    "index.html": "/sample-react-project-2020f/index.html",
+    "precache-manifest.15f8653e6a0a7af491e3862c4ef8e665.js": "/sample-react-project-2020f/precache-manifest.15f8653e6a0a7af491e3862c4ef8e665.js",
+    "service-worker.js": "/sample-react-project-2020f/service-worker.js",
+    "static/css/main.2d861202.chunk.css.map": "/sample-react-project-2020f/static/css/main.2d861202.chunk.css.map",
+    "static/js/2.5767340a.chunk.js.LICENSE.txt": "/sample-react-project-2020f/static/js/2.5767340a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6970087.js",
+    "static/js/2.5767340a.chunk.js",
+    "static/css/main.2d861202.chunk.css",
+    "static/js/main.c813da28.chunk.js"
+  ]
+}
